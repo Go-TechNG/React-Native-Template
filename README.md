@@ -1,4 +1,4 @@
-# Exlogrn 🚀
+# React Native Template 🚀
 
 A starter app template for React Native Expo, featuring a ready-to-use login screen.
 
@@ -19,7 +19,13 @@ You will just need to adapt it according to your needs.
 
 ## Usage ℹ️
 
-Click on the **[Use this template](https://github.com/daoodaba975/exlogrn/generate)** button on this page to clone this respository to your GitHub account or you can clone this respository.
+You can clone this respository.
+
+- Clone Repo
+
+```bash
+git clone https://github.com/Go-TechNG/React-Native-Template.git
+```
 
 - Install dependencies
 
